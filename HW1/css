@@ -4,6 +4,6 @@
         border-radius: 50%;
     }
     .custom-text-color {
-        color: #00008B;
+        color: #5f5f5f;
     }
 </style>
